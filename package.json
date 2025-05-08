@@ -1,0 +1,15 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tic tac toe game",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "author": "Aditya Dhamanekar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
