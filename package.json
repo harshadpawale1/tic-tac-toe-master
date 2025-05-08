@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build":"parcel build index.html"
   },
-  "author": "Aditya Dhamanekar",
+  "author": "Harshad Pawale",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.11.0"
