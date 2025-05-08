@@ -1,2 +1,3 @@
-# this is tic tac toe game by Aditya Dhamanekar
+# this is tic tac toe game by Harshad Pawale
+
 
